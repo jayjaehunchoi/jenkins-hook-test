@@ -1,3 +1,4 @@
 [submodule "src/main/resources/secret-key-test"]
 	path = src/main/resources/secret-key-test
 	url = https://github.com/jayjaehunchoi/secret-key-test.git
+	branch = main
